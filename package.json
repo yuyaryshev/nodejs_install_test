@@ -31,9 +31,9 @@
     },
     "homepage": "https://github.com/yuyaryshev/nodejs_install_test#readme",
     "dependencies": {
-        "better-sqlite3": "^7.4.5",
-        "chai": "^4.3.4",
-        "mocha": "^9.1.3",
-        "prettier": "^2.5.0"
+        "better-sqlite3": "*",
+        "chai": "*",
+        "mocha": "*",
+        "prettier": "*"
     }
 }
